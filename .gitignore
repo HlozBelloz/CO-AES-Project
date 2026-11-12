@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+
+# VS Code / DOSBox temporary files
+.vscode/
+*.obj
+*.exe
+*.map
+*.lst
+*.crf
+*.tr
